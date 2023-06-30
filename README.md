@@ -35,9 +35,9 @@ I'm a software developer, specializing in building exceptional websites and mobi
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-<br/>
+[PROFILE_VIEWS]: [https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFacundoTenuta%2FFacundoTenuta&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFacundoTenuta&count_bg=%2342A8B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
-[PROFILE_VIEWS]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFacundoTenuta%2FFacundoTenuta&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80&edge_flat=false
+<br/>
 
 <!--
 **FacundoTenuta/FacundoTenuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
