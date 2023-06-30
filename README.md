@@ -37,6 +37,8 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 <br/>
 
+[PROFILE_VIEWS]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFacundoTenuta%2FFacundoTenuta&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80&edge_flat=false
+
 <!--
 **FacundoTenuta/FacundoTenuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
